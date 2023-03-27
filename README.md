@@ -1,7 +1,9 @@
 # Statistics-for-Data-Science
 `Assignment description`
 
-[`Certificate`](https://olympus.mygreatlearning.com/courses/11266/certificate)
+[`Certificate: Statistics for Data Science`](https://olympus.mygreatlearning.com/courses/11266/certificate)
+
+[`Certificate: Probability and Probability Distributions for Machine Learning`](https://olympus.mygreatlearning.com/courses/34995/certificate)
 
 Dataset: Laliga.csv
 
