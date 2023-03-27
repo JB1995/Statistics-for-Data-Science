@@ -1,6 +1,8 @@
 # Statistics-for-Data-Science
 `Assignment description`
 
+[`Certificate`](https://olympus.mygreatlearning.com/courses/11266/certificate)
+
 Dataset: Laliga.csv
 
 Think of yourself, currently working as a Business analyst in one of the top sports company. The senior management team has asked you to come up with metrics with which they can gauge which team will win the upcoming La Liga cup (Football tournament).
@@ -17,5 +19,6 @@ You are required to do the following:
  5. Create a new column with name “Winning Percent” and append it to the data set
          `Percentage of Winning = (GamesWon / GamesPlayed)*100`
     If there are any numerical error, replace it with 0%
-    Print the top 5 teams which has the highest Winning percentage
+    
+    Print the top 5 teams which has the highest Winning percentage.
  6. Group teams based on their “Best position” and print the sum of their points for all positions.
